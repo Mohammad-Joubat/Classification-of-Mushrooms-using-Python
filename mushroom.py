@@ -1,6 +1,6 @@
 import csv
 import random
-''' Author : Mohammad Joubat , Phone : +972547095825 :  E-mail : Mohamadjo@ariel.ac.il   '''
+''' Author : Mohammad Joubat , Phone : E-mail : Mohamadjo@ariel.ac.il   '''
 
 attributes_yes_list = []
 attributes_no_list = []
