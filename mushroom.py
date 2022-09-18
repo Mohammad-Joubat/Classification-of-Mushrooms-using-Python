@@ -1,6 +1,6 @@
 import csv
 import random
-''' Author : Mohammad Joubat , Phone : E-mail : Mohamadjo@ariel.ac.il   '''
+''' Author's : Mohammad Joubat  Mona , Nimrod ,Jehad , Mhinkkye ,Magdi, Rani   '''
 
 attributes_yes_list = []
 attributes_no_list = []
