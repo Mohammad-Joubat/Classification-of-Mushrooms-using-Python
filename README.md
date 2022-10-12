@@ -1,5 +1,5 @@
 # Classification-of-Mushrooms-using-Python
-Classifying Mushrooms as Edible or Poisonous : using Naive-Bayes
+Classifying Mushrooms as Edible or Poisonous : using Naive-Bayes.
 
 Mushroom records drawn from The Audubon Society Field Guide to North American Mushrooms.
 
